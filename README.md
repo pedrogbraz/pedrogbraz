@@ -1,4 +1,7 @@
-## Olá eu sou o Pedro Braz e tenho 16 anos, estudo atualmente na parte do Front-End e pretendo futuramente aprender Back-End e atuar como Full-Stacks
+## 🙋‍♂️  Sobre mim
+🤔   Procuro explorar novas tecnologias.
+🎓   Programador Front-end Júnior.
+💻   Founder & Owner: OneSource (FiveM Resources)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
