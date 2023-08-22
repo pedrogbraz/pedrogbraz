@@ -1,7 +1,8 @@
-## 🙋‍♂️  Sobre mim
-🤔   Procuro explorar novas tecnologias.
-🎓   Programador Front-end Júnior.
-💻   Founder & Owner: OneSource (FiveM Resources)
+<h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Procuro explorar novas tecnologias.
+- 🎓 &nbsp; Programador **Front-end** Júnior.
+- 💻 &nbsp; **Founder & Owner:** [OneSource](https://onesource-page.vercel.app/) (FiveM Resources)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
