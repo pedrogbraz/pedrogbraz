@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
 - 🎓 &nbsp; Programador **Front-end** Júnior.
-- 💻 &nbsp; **Founder & Owner:** [PySource](https://discord.gg/QFuDGu9Csx) (Help and Resources Utils)
+- 💻 &nbsp; **Founder & Owner:** [PySource](https://discord.gg/QFuDGu9Csx) (Discord to Help and Resources)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
