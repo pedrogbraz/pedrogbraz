@@ -1,8 +1,8 @@
-<h2> 🙋‍♂️ &nbsp;Sobre mim </h2>
+<h2> 🙋‍♂️ &nbsp;Hi! I'm Pedro, a Front-end Developer </h2>
 
-- 🤔 &nbsp; Procuro explorar novas tecnologias.
-- 🎓 &nbsp; Desenvolvedor **Front-end**.
-- 📉 &nbsp; Elevo a sua experiência digital.
+- 🤔 &nbsp; I seek to explore new technologies.
+- 🎓 &nbsp; **Front-end** Developer.
+- 📉 &nbsp; I elevate your digital experience.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
