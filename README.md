@@ -1,28 +1,43 @@
-<h2> 🙋‍♂️ &nbsp;Hi! I'm Pedro, a Front-end Developer </h2>
+## Hello, Devs!! 👋
+### O meu nome é Pedro Gontijo Braz, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🤔 &nbsp; I seek to explore new technologies.
-- 🎓 &nbsp; **Front-end** Developer.
-- 📉 &nbsp; I elevate your digital experience.
+- 🔰  Moro na capital de São Paulo, Brasil
+- 💁🏽‍♂️  Tenho 17 anos
+- 👨🏽‍💻  E tenho muita vontade de aprender
+##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Pedro-Tailwindss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Pedro-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Pedro-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Pedro-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+#### Estou aprendendo sobre:
+[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://dev.java/learn/)
+[<img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring"/>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+##
+
+#### Tenho conhecimento em:
+[<img height="48px" width="48px" alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/>](https://www.w3schools.com/html/)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://www.w3schools.com/Css/)
+[<img height="48px" width="48px" alt="Icone Javascript" src="https://skillicons.dev/icons?i=javascript"/>](https://devdocs.io/javascript/)
+[<img height="48px" width="48px" alt="Icone Typescript" src="https://skillicons.dev/icons?i=typescript"/>](https://www.typescriptlang.org/docs/)
+[<img height="48px" width="48px" alt="Icone Tailwindcss" src="https://skillicons.dev/icons?i=tailwind"/>](https://v2.tailwindcss.com/docs)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+##
+
+#### Tenho uma base em:
+[<img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/docs/)
+[<img height="48px" width="48px" alt="Icone prisma" src="https://skillicons.dev/icons?i=prisma"/>](https://www.prisma.io/docs)
+##
+
+#### Como entrar em contato comigo:
+<a href="https://www.instagram.com/pedr0_br4z/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pedro-gontijo-braz-7b6014268/)
+<a href="mailto:contatopedrogbraz@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+##
+
+#### Estatísticas:
+
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedrogbraz&show_icons=true&theme=dracula" alt="Pedro Gontijo Braz GitHub stats" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogbraz&layout=compact&theme=dracula" alt="Top Langs" height="200">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/pedr0_br4z/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatopedrogbraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-gontijo-braz-7b6014268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br>
 
-![Pedro Gontijo Braz GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogbraz&show_icons=true&theme=dracula)
+
+
+
