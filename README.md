@@ -33,10 +33,9 @@
 
 #### Estatísticas:
 
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrogbraz&show_icons=true&theme=dracula" alt="Pedro Gontijo Braz GitHub stats" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogbraz&layout=compact&theme=dracula" alt="Top Langs" height="200">
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogbraz&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogbraz&layout=compact&theme=dracula)
+
 
 
 
