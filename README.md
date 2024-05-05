@@ -9,7 +9,6 @@
 [<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org/)
 [<img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/docs/)
 [<img height="48px" width="48px" alt="Icone prisma" src="https://skillicons.dev/icons?i=prisma"/>](https://www.prisma.io/docs)
-[<img height="48px" width="48px" alt="Icone Vite" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
 ##
 
 #### Tenho conhecimento em:
