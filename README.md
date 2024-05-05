@@ -19,7 +19,7 @@
 [<img height="48px" width="48px" alt="Icone Tailwindcss" src="https://skillicons.dev/icons?i=tailwind"/>](https://v2.tailwindcss.com/docs)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Nodejs" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-[<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=jest"/>](https://sass-lang.com/)
+[<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
 ##
 
 #### Tenho grande interesse em:
