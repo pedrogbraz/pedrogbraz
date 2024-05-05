@@ -3,7 +3,6 @@
 
 - 🔰  Moro na capital de São Paulo, Brasil
 - 💁🏽‍♂️  Tenho 17 anos
-- 👨🏽‍💻  E tenho muita vontade de aprender
 ##
 
 #### Estou aprendendo sobre:
