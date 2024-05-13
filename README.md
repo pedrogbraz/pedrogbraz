@@ -19,6 +19,7 @@
 [<img height="48px" width="48px" alt="Icone Tailwindcss" src="https://skillicons.dev/icons?i=tailwind"/>](https://v2.tailwindcss.com/docs)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Nodejs" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
+[<img height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
 ##
 
 #### Tenho grande interesse em:
