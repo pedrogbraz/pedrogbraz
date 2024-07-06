@@ -5,18 +5,24 @@
 - 💁🏽‍♂️  I am 17 years old.
 ##
 
-#### Most used tecnologies:
-[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://dev.java/learn/)
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=spring"/>](https://nextjs.org/)
-[<img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=docker"/>](https://www.postgresql.org/docs/)
-[<img height="48px" width="48px" alt="Icone prisma" src="https://skillicons.dev/icons?i=mysql"/>](https://www.prisma.io/docs)
-[<img height="48px" width="48px" alt="Icone prisma" src="https://skillicons.dev/icons?i=debian"/>](https://www.prisma.io/docs)
-[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=vitest"/>](https://dev.java/learn/)
-[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=idea"/>](https://dev.java/learn/)
+#### Most used langagues:
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=js"/>](https://nextjs.org/)
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=ts"/>](https://nextjs.org/)
 ##
 
-#### Learning:
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=astro"/>](https://nextjs.org/)
+#### Most used frameworks:
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=react"/>](https://nextjs.org/)
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=next"/>](https://nextjs.org/)
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=nodejs"/>](https://nextjs.org/)
+##
+
+#### CSS:
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=tailwindcss"/>](https://nextjs.org/)
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=scss"/>](https://nextjs.org/)
+##
+
+#### Testing:
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=vitest"/>](https://nextjs.org/)
 ##
 
 #### How to contact me
