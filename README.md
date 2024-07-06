@@ -5,24 +5,12 @@
 - 💁🏽‍♂️  I am 17 years old.
 ##
 
-#### Most used langagues:
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=js"/>](https://nextjs.org/)
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=ts"/>](https://nextjs.org/)
-##
+#### Most used tecnologies:
 
-#### Most used frameworks:
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=react"/>](https://nextjs.org/)
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=next"/>](https://nextjs.org/)
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=nodejs"/>](https://nextjs.org/)
-##
+<div style="display: inline_block"><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwindcss,scss,vitest,yarn,linux,debian" />
+</div>
 
-#### CSS:
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=tailwindcss"/>](https://nextjs.org/)
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=scss"/>](https://nextjs.org/)
-##
-
-#### Testing:
-[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=vitest"/>](https://nextjs.org/)
 ##
 
 #### How to contact me
@@ -33,8 +21,15 @@
 
 #### Estatísticas:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogbraz&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogbraz&layout=compact&theme=dracula)
+<div>
+<a href="https://github.com/vgont/github-readme-stats">
+  <img height="175"  align="center" margin-right="20px"; src="https://github-readme-stats.vercel.app/api?username=pedrogbraz&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/vgont/convoychat">
+  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogbraz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
+</a>
+</div>
+
 
 
 
