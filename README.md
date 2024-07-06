@@ -1,8 +1,8 @@
 ## Hello, Devs!! 👋
-### O meu nome é Pedro Gontijo Braz, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### My name is Pedro Gontijo Braz. Welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Moro na capital de São Paulo, Brasil
-- 💁🏽‍♂️  Tenho 17 anos
+- 🔰  I live in São Paulo, Brazil.
+- 💁🏽‍♂️  I am 17 years old.
 ##
 
 #### Most used tecnologies:
@@ -19,7 +19,7 @@
 [<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=astro"/>](https://nextjs.org/)
 ##
 
-#### Como entrar em contato comigo:
+#### How to contact me
 <a href="https://www.instagram.com/pedr0_br4z/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pedro-gontijo-braz-7b6014268/)
 <a href="mailto:contatopedrogbraz@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
