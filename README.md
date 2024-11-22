@@ -21,7 +21,7 @@
 
 #### Estatísticas:
 
-<div>
+<div style="display: flex;">
 <a href="https://github.com/vgont/github-readme-stats">
   <img height="175"  align="center" margin-right="20px"; src="https://github-readme-stats.vercel.app/api?username=pedrogbraz&show_icons=true&theme=dracula" />
 </a>
