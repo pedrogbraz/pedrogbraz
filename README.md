@@ -8,7 +8,7 @@
 #### Most used tecnologies:
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,tailwindcss,vitest,mongodb,prisma,yarn,java,spring,linux,debian" />
+  <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,tailwindcss,vitest,mongodb,postgresql,prisma,yarn,java,spring,linux,debian" />
 </div>
 
 ##
