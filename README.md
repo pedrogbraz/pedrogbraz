@@ -2,7 +2,7 @@
 ### My name is Pedro Gontijo Braz. Welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  I live in São Paulo, Brazil.
-- 💁🏽‍♂️  I am 17 years old.
+- 💁🏽‍♂️  I am 18 years old.
 ##
 
 #### Most used tecnologies:
