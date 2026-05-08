@@ -46,12 +46,14 @@ Building the future of the creator economy, payments, AI and global digital infr
 
 | Platform | Description |
 |---|---|
-| 💳 Cooud Payments | Global payment infrastructure |
-| 📺 Cooud TV | Streaming & course platform |
-| 📈 Nexora | Advanced analytics & tracking |
-| 🤖 Cooud AI | AI-powered ecosystem tools |
-| 🌎 Cooud Global | International creator infrastructure |
-| 🔐 Cooud Auth | Unified authentication platform |
+| 💳 Cooud Payments | Global payment and checkout infrastructure |
+| 📺 Cooud TV | Streaming, members area and digital course platform |
+| 🌎 Cooud Global Expansion (CGE) | International scaling infrastructure for digital businesses |
+| 🔐 Cooud Auth | Unified authentication and identity system |
+| 🛡️ Cooud Shield | Fraud prevention, chargeback defense and risk intelligence |
+| 💼 Cooud Talent | Next-generation freelance and professional networking platform |
+| 🎮 Cooud Marketplace | Digital products and gaming marketplace |
+| ₿ Cooud Exchange | Decentralized crypto infrastructure and digital asset exchange |
 
 </div>
 
