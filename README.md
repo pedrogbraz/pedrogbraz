@@ -93,12 +93,7 @@ payments, streaming, AI and global digital infrastructure, all under one roof.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrogbraz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=635BFF&icon_color=635BFF" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogbraz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=635BFF" alt="Top Languages" />
-
 <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrogbraz&theme=tokyonight&hide_border=true&background=0d1117&ring=635BFF&fire=635BFF&currStreakLabel=635BFF" alt="GitHub Streak" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrogbraz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=635BFF&point=ffffff" alt="Contribution Graph" />
 
 </div>
 
