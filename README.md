@@ -7,7 +7,7 @@
 
 I'm a self-taught founder and product engineer from São Paulo. I run **Cooud**, a checkout and payments platform for creators, and build developer tools and native software on the side. I care about systems that hold money correctly and interfaces that feel finished.
 
-[Website](https://pedrogbraz.com.br) · [LinkedIn](https://www.linkedin.com/in/pedrogbraz2) · [X](https://x.com/pedrogbraz) · [Instagram](https://instagram.com/pedrogbraz) · [Email](mailto:contatopedrogbraz@gmail.com)
+[Website](https://pedrogbraz.com.br) · [LinkedIn](https://www.linkedin.com/in/pedrogbraz2) · [X](https://x.com/pedrogbraz) · [Instagram](https://instagram.com/pedrogbraz) · [Email](mailto:pedrobrazdevs@gmail.com)
 
 <br />
 
