@@ -87,8 +87,6 @@ payments, streaming, AI and global digital infrastructure, all under one roof.
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
