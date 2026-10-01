@@ -18,7 +18,7 @@ I'm a self-taught founder and product engineer from São Paulo. I run **Cooud**,
 | **[Cooud](https://cooud.com)** | Payments & checkout for creators — checkout, one-click upsell, subscriptions, affiliates, members area and mobile apps. | `Live` |
 | **Cooud Exchange** | Custodial crypto exchange — order matching, multi-chain deposits and withdrawals, solvency checks. | `Building` |
 | **[Cronus UI](https://aicronus.com)** | Product UI system for React — tokens, live theming, accessible components, CLI and an MCP server. [`@cronus-ui/ui`](https://www.npmjs.com/package/@cronus-ui/ui) on npm. | `v0.7` |
-| **Halo** | Native macOS software for the MacBook notch — Halo Island and Halo Launch. | `Coming soon` |
+| **[Halo](https://halo-web-drab.vercel.app)** | Native macOS software for the MacBook notch — Halo Island and Halo Launch. | `Public beta` |
 
 <br />
 
